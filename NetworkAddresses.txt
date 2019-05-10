@@ -1,0 +1,42 @@
+2nd Floor:
+
+Server Room: 165.124.0.0 255.255.255.224 32 Hosts
+CEO Office: 165.124.0.113 255.255.255.240 16 Hosts
+Java Lab1 165.124.0.129 255.255.255.240 16 Hosts
+Java Lab2 165.124.0.145 255.255.255.240 16 Hosts
+Android Lab1 165.124.0.161 255.255.255.240 16 Hosts
+Android Lab2 165.124.0.177 255.255.255.240 16 Hosts
+Web Design Lab1 165.124.0.209 255.255.255.240 16 Hosts
+Web Design Lab2 165.124.0.225 255.255.255.240 16 Hosts
+Cyber Security Lab 165.124.0.241 255.255.255.240 16 Hosts
+
+1st Floor
+
+Database Lab1 165.124.1.97 255.255.255.240 16 Hosts
+Database Lab2 165.124.1.113 255.255.255.240 16 Hosts
+Data Science Lab 165.124.1.129 255.255.255.240 16 Hosts
+Data Analytics Lab 165.124.1.49 255.255.255.240 16 Hosts
+Computer Vision Lab 165.124.1.65 255.255.255.240 16 Hosts
+Game Development Lab 165.124.1.81 255.255.255.240 16 Hosts
+ML Reasearch Lab 165.124.1.1 255.255.255.240 16 Hosts
+AI Reasearch Lab 165.124.1.17 255.255.255.240 16 Hosts
+AR and VR Lab 165.124.1.33 255.255.255.240 16 Hosts
+IT Manager and Public Wifi 165.124.0.33 255.255.255.224 32 Hosts
+
+Ground Floor
+
+IT Manager GF 165.124.0.65 255.255.255.224
+Web Dev Inspection 165.124.1.145 255.255.255.240
+Web Dev Testing Lab 165.124.1.161 255.255.255.240
+Building Security 165.124.1.177 255.255.255.240
+App Dev Inspection 165.124.1.193 255.255.255.240
+App Dev Testing 165.124.1.209 255.255.255.240
+HR Management 165.124.1.225 255.255.255.240
+Accounting and Finance 165.124.1.241 255.255.255.240
+Marketing 165.124.2.1 255.255.255.240
+Logistics 165.124.2.17 255.255.255.240
+
+
+
+
+
